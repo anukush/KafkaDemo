@@ -1,0 +1,6 @@
+org\example\kafka\controller\ConsumerController.class
+org\example\kafka\config\KafkaProducerConfig.class
+org\example\kafka\controller\ProducerController.class
+org\example\kafka\KafkaMainApplication.class
+org\example\kafka\config\KafkaConsumerConfig.class
+org\example\kafka\controller\ProducerController$1.class
